@@ -44,4 +44,10 @@ CREATE TABLE daily_weather (
 )
 ```
 
+## Outputs
+
+<img width="663" height="629" alt="image" src="https://github.com/user-attachments/assets/ae2ba485-87cb-4129-9616-f21b07f3f495" />
+
+<img width="826" height="765" alt="image" src="https://github.com/user-attachments/assets/1fd25ceb-408a-4326-8776-8d5ccf369fd3" />
+
 
